@@ -1,7 +1,7 @@
 /** @format */
 
 const Home = () => (
-  <h1 className="text-3xl font-black text-white">
+  <h1 className="h1-bold background-light800_dark400">
     Welcome to the world of Next.js
   </h1>
 );
